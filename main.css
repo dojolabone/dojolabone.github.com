@@ -1,0 +1,96 @@
+body {
+  background-color:#2A4755;
+  font-family:verdana,arial,helvetica;
+  color:#FFF;
+}
+
+.container {
+  margin-left:15%;
+  padding-top:100px;
+  width:900px;
+  background-color:#71A84D;
+  margin-top:0px;
+}
+
+.dojo-date {
+  font-size:50px;
+  font-weight:bold;
+  text-align:center;
+  margin-bottom:50px;
+}
+
+
+.retrospective-items {
+  background-color:#FFF;
+  margin-top:50px;
+  margin-left:20px;
+  width:860px;
+}
+
+.le-icon {
+  background-color:#FFF;
+  color:#3DB2DD;
+  font-size:40px;
+  text-align:center;
+  height:80px;
+}
+
+.retrospective-items table{
+  background-color:#FFF;
+  width:428px;
+  text-align:right;
+  color:#3DB2DD;
+  border:1px dashed #41B1D6;
+}
+
+.retrospective-items .item-qtt {
+  font-size:25px;
+  vertical-align:bottom;
+}
+
+.retrospective-items .item{
+  text-align:right;
+  width: 370px;
+  font-size:25px;
+}
+
+.le-good {
+}
+
+.le-bad {
+}
+
+.title {
+  top:0px;
+  left:0px;
+  width:100%;
+  height:100px;
+  position:absolute;
+  background-color:#E0EDF3;
+  color:#19869D;
+  text-align:center;
+}
+
+.title span {
+  font-size:62px;
+}
+
+.footer {
+  left:0px;
+  width:100%;
+  height:60px;
+  position:absolute;
+  background-color:#000000;
+  color:#19869D;
+  text-align:center;
+}
+
+/* ----- */
+.float-left {
+  float:left;
+}
+
+.clear-all {
+  clear:both;
+}
+
